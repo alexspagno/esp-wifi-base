@@ -1,5 +1,5 @@
 // Access Point credential
-const char* APSSID = "WIFI ESP";
+const char* APSSID = "WIFI_ESP";
 const char* APPASS = "12345678";
 const IPAddress APIP = IPAddress(192,168,4,1);
 
